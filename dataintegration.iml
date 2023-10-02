@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="javaeeApplication" name="javaEEApplication">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/META-INF/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="Hibernate" />
+        <datasource-mapping>
+          <factory-entry name="dataintegration" value="ae5d5e5c-f946-4e2d-a38d-deb7fd9e76e6" />
+          <factory-entry name="entityManagerFactory" />
+          <factory-entry name="noname-a.xml@0" value="ae5d5e5c-f946-4e2d-a38d-deb7fd9e76e6" />
+        </datasource-mapping>
+        <naming-strategy-map />
+      </configuration>
+    </facet>
+  </component>
+</module>
